@@ -1,0 +1,23 @@
+{
+  "name": "another-logger",
+  "version": "1.0.0",
+  "description": "Модуль для логирования - обертка на pino",
+  "main": "scr/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladimir0651/another-logger.git"
+  },
+  "author": "Kolyadin Vladimir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladimir0651/another-logger/issues"
+  },
+  "homepage": "https://github.com/Vladimir0651/another-logger#readme",
+  "dependencies": {
+    "pino": "^9.2.0",
+    "pino-pretty": "^11.2.1"
+  }
+}
